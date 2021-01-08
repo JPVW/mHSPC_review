@@ -1,0 +1,60 @@
+gene	pathway	
+TP53	TP53	
+CDK12	DNA Repair	
+SPEN	Notch	
+KRAS	MAP kinase signaling	
+FANCA	DNA Repair	
+NCOR1	AR	
+APC	ß-Catenin/WNT Signaling	
+KMT2C	Chromatin Modifiers	
+RB1	Cell Cycle control	
+AR	AR	
+ZFHX3	Other	
+ZMYM3	Other	
+CHD1	Chromatin Modifiers	
+RAD50	DNA Repair	
+BRCA2	DNA Repair	
+SPOP	SPOP	
+ARID1A	Other	
+MET	MAP kinase signaling	
+KMT2D	Chromatin Modifiers	
+RAD51B	DNA Repair	
+ATR	DNA Repair	
+MSH3	MMR	
+RAD51	DNA Repair	
+MGA	Other	
+BRIP1	DNA Repair	
+KDM6A	Chromatin Modifiers	
+PALB2	DNA Repair	
+JAK1	Other	
+MSH6	DNA Repair	
+BARD1	Other	
+MLH1	DNA Repair	
+CTNNB1	ß-Catenin/WNT Signaling	
+SETD2	Chromatin Modifiers	
+KMT2A	Chromatin Modifiers	
+ARID2	Chromatin Modifiers	
+MLH3	Other	
+CDH1	Other	
+LPAR6	Other	
+ATM	DNA Repair	
+FOXA1	AR	
+MED12	Other	
+MSH2	DNA Repair	
+PMS1	MMR	
+BRCA1	DNA Repair	
+RNF43	ß-Catenin/WNT Signaling
+KEAP1	Other	
+RNU2-8P	Other	
+MOGAT2	Other
+IGLV3-13	Other	
+ZYMY3	Other	
+TINAG	Other	
+LARP4B	Other	
+EEF1A1P21	Other	
+DPYD	Other	
+CDKN1B	Other	
+AKAP10	Other	
+KRAS	RAS/MAPK
+PTEN	PI3K
+PIK3CA	PI3K
