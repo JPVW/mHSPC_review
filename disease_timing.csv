@@ -11,7 +11,7 @@ CTNNB1;10;7;Recurrent HSPC M1;Stopsack. et al;149;Tissue
 RNF43;NA;NA;Recurrent HSPC M1;Stopsack. et al;NA;Tissue
 SPOP;25;17;Recurrent HSPC M1;Stopsack. et al;149;Tissue
 FOXA1;16;11;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-AR;6;11;De novo HSPC M1;Stopsack. et al;275;Tissue
+AR;6;2;De novo HSPC M1;Stopsack. et al;275;Tissue
 TP53;92;32;De novo HSPC M1;Stopsack. et al;275;Tissue
 PTEN;59;21;De novo HSPC M1;Stopsack. et al;275;Tissue
 RB1;11;4;De novo HSPC M1;Stopsack. et al;275;Tissue
@@ -47,7 +47,7 @@ CTNNB1;3;4;De novo HSPC M1;Abida et al.;72;Tissue
 RNF43;1;1;De novo HSPC M1;Abida et al.;72;Tissue
 SPOP;7;10;De novo HSPC M1;Abida et al.;72;Tissue
 FOXA1;9;13;De novo HSPC M1;Abida et al.;72;Tissue
-AR;NA;NA;De novo HSPC M1;Gilson et al.;115;Tissue
+AR;0;0;De novo HSPC M1;Gilson et al.;115;Tissue
 TP53;38;33;De novo HSPC M1;Gilson et al.;115;Tissue
 PTEN;39;34;De novo HSPC M1;Gilson et al.;115;Tissue
 RB1;1;1;De novo HSPC M1;Gilson et al.;115;Tissue
