@@ -23,7 +23,7 @@ g_legend <- function(a.gplot){
 
 ### Figure 2: Disease state
 disease_state <- read.csv2("disease_state.csv", header = T, sep = ";")
-disease_state$state <- factor(disease_state$state, levels = c("HSPC-Loc", "HSPC-M1", "CRPC-M1"))
+disease_state$state <- factor(disease_state$state, levels = c("L-HSPC", "mHSPC", "mCRPC"))
 names(disease_state)[names(disease_state) == "Gene"] <- "gene"
 disease_state <- left_join(disease_state, pathways, by ='gene')
 
@@ -72,8 +72,6 @@ ggplot(disease_state, aes(gene, AF)) +
   xlab("Genes") + ylab("Alteration frequency (%)") +
   theme(plot.title = element_text(size = 20, face = "bold")) +
   ggtitle("Disease state")
-
-
 
 
 
@@ -192,3 +190,5 @@ leg3b <- g_legend(f3b)
 figure3 <- plot_grid(f3a, f3b, ncol = 2, nrow = 1)
 legend3 <- plot_grid(leg3a, leg3b, ncol = 1, rel_heights = c(1.5,0.5)) 
 
+ggsave("figure3.png", plot = last_plot(), device = "png", width = 30, height = 20,
+       units = "cm", dpi = 320)

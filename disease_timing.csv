@@ -1,133 +1,106 @@
 Gene;N;percentage;state;Article;total;sample_type
-AR;16;11;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-TP53;47;32;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-PTEN;44;30;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-RB1;9;6;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-ATM;9;6;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-BRCA2;9;6;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-CDK12;2;1;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-APC;17;11;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-CTNNB1;10;7;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-RNF43;NA;NA;Recurrent HSPC M1;Stopsack. et al;NA;Tissue
-SPOP;25;17;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-FOXA1;16;11;Recurrent HSPC M1;Stopsack. et al;149;Tissue
-AR;6;2;De novo HSPC M1;Stopsack. et al;275;Tissue
-TP53;92;32;De novo HSPC M1;Stopsack. et al;275;Tissue
-PTEN;59;21;De novo HSPC M1;Stopsack. et al;275;Tissue
-RB1;11;4;De novo HSPC M1;Stopsack. et al;275;Tissue
-ATM;11;4;De novo HSPC M1;Stopsack. et al;275;Tissue
-BRCA2;22;8;De novo HSPC M1;Stopsack. et al;275;Tissue
-CDK12;22;8;De novo HSPC M1;Stopsack. et al;275;Tissue
-APC;34;12;De novo HSPC M1;Stopsack. et al;275;Tissue
-CTNNB1;12;4;De novo HSPC M1;Stopsack. et al;275;Tissue
-RNF43;NA;NA;De novo HSPC M1;Stopsack. et al;NA;Tissue
-SPOP;28;10;De novo HSPC M1;Stopsack. et al;275;Tissue
-FOXA1;38;14;De novo HSPC M1;Stopsack. et al;275;Tissue
-AR;5;7;Recurrent HSPC M1;Abida et al.;68;Tissue
-TP53;15;22;Recurrent HSPC M1;Abida et al.;68;Tissue
-PTEN;13;19;Recurrent HSPC M1;Abida et al.;68;Tissue
-RB1;5;7;Recurrent HSPC M1;Abida et al.;68;Tissue
-ATM;2;3;Recurrent HSPC M1;Abida et al.;68;Tissue
-BRCA2;5;7;Recurrent HSPC M1;Abida et al.;68;Tissue
-CDK12;1;1;Recurrent HSPC M1;Abida et al.;68;Tissue
-APC;11;16;Recurrent HSPC M1;Abida et al.;68;Tissue
-CTNNB1;5;7;Recurrent HSPC M1;Abida et al.;68;Tissue
-RNF43;0;0;Recurrent HSPC M1;Abida et al.;68;Tissue
-SPOP;8;12;Recurrent HSPC M1;Abida et al.;68;Tissue
-FOXA1;8;12;Recurrent HSPC M1;Abida et al.;68;Tissue
-AR;1;1;De novo HSPC M1;Abida et al.;72;Tissue
-TP53;27;38;De novo HSPC M1;Abida et al.;72;Tissue
-PTEN;12;17;De novo HSPC M1;Abida et al.;72;Tissue
-RB1;4;6;De novo HSPC M1;Abida et al.;72;Tissue
-ATM;1;1;De novo HSPC M1;Abida et al.;72;Tissue
-BRCA2;5;7;De novo HSPC M1;Abida et al.;72;Tissue
-CDK12;7;10;De novo HSPC M1;Abida et al.;72;Tissue
-APC;8;11;De novo HSPC M1;Abida et al.;72;Tissue
-CTNNB1;3;4;De novo HSPC M1;Abida et al.;72;Tissue
-RNF43;1;1;De novo HSPC M1;Abida et al.;72;Tissue
-SPOP;7;10;De novo HSPC M1;Abida et al.;72;Tissue
-FOXA1;9;13;De novo HSPC M1;Abida et al.;72;Tissue
-AR;0;0;De novo HSPC M1;Gilson et al.;115;Tissue
-TP53;38;33;De novo HSPC M1;Gilson et al.;115;Tissue
-PTEN;39;34;De novo HSPC M1;Gilson et al.;115;Tissue
-RB1;1;1;De novo HSPC M1;Gilson et al.;115;Tissue
-ATM;7;6;De novo HSPC M1;Gilson et al.;115;Tissue
-BRCA2;2;2;De novo HSPC M1;Gilson et al.;115;Tissue
-CDK12;7;6;De novo HSPC M1;Gilson et al.;115;Tissue
-APC;8;7;De novo HSPC M1;Gilson et al.;115;Tissue
-CTNNB1;8;7;De novo HSPC M1;Gilson et al.;115;Tissue
-RNF43;NA;NA;De novo HSPC M1;Gilson et al.;NA;Tissue
-SPOP;5;4;De novo HSPC M1;Gilson et al.;115;Tissue
-FOXA1;NA;NA;De novo HSPC M1;Gilson et al.;NA;Tissue
-PIK3CA;NA;NA;De novo HSPC M1;Gilson et al.;NA;Tissue
-PIK3CA;NA;NA;De novo HSPC M1;Abida et al.;NA;Tissue
-PIK3CA;NA;NA;Recurrent HSPC M1;Abida et al.;NA;Tissue
-PIK3CA;NA;NA;Recurrent HSPC M1;Stopsack. et al;NA;Tissue
-PIK3CA;NA;NA;De novo HSPC M1;Stopsack. et al;NA;Tissue
-PIK3CA;NA;NA;De novo HSPC M1;Vandekerkhove et al.;NA;Liquid
-TP53;25;45;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-ATM;2;4;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-BRCA2;4;8;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-CDK12;3;6;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-AR;0;0;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-CTNNB1;1;2;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-APC;4;8;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-RNF43;1;2;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-SPOP;7;13;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-FOXA1;8;15;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-PTEN;10;19;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-PIK3CA;5;9;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-RB1;3;6;De novo HSPC M1;Vandekerkhove et al.;53;Liquid
-SPOP;25;21;De novo HSPC M1;Swami et al.;121;Tissue
-TP53;82;28;De novo HSPC M1;Mateo et al.;292;Tissue
-ATM;8;3;De novo HSPC M1;Mateo et al.;292;Tissue
-BRCA2;17;6;De novo HSPC M1;Mateo et al.;292;Tissue
-CDK12;12;4;De novo HSPC M1;Mateo et al.;292;Tissue
-AR;0;0;De novo HSPC M1;Mateo et al.;292;Tissue
-CTNNB1;12;4;De novo HSPC M1;Mateo et al.;292;Tissue
-APC;NA;NA;De novo HSPC M1;Mateo et al.;NA;Tissue
-RNF43;NA;NA;De novo HSPC M1;Mateo et al.;NA;Tissue
-SPOP;28;10;De novo HSPC M1;Mateo et al.;292;Tissue
-FOXA1;NA;NA;De novo HSPC M1;Mateo et al.;NA;Tissue
-PTEN;36;12;De novo HSPC M1;Mateo et al.;292;Tissue
-PIK3CA;11;4;De novo HSPC M1;Mateo et al.;292;Tissue
-RB1;18;6;De novo HSPC M1;Mateo et al.;292;Tissue
-TP53;10;24;De novo HSPC M1;Fan et al.;41;Liquid
-PTEN;3;7;De novo HSPC M1;Fan et al.;41;Liquid
-RB1;3;7;De novo HSPC M1;Fan et al.;41;Liquid
-AR;3;7;De novo HSPC M1;Fan et al.;41;Liquid
-ATM;2;5;De novo HSPC M1;Fan et al.;41;Liquid
-APC;NA;NA;De novo HSPC M1;Fan et al.;NA;Liquid
-BRCA2;4;10;De novo HSPC M1;Fan et al.;41;Liquid
-CDK12;5;12;De novo HSPC M1;Fan et al.;41;Liquid
-CTNNB1;NA;NA;De novo HSPC M1;Fan et al.;NA;Liquid
-RNF43;NA;NA;De novo HSPC M1;Fan et al.;NA;Liquid
-SPOP;4;10;De novo HSPC M1;Fan et al.;41;Liquid
-FOXA1;16;39;De novo HSPC M1;Fan et al.;41;Liquid
-PIK3CA;NA;NA;De novo HSPC M1;Fan et al.;NA;Liquid
-AR;2;2;Recurrent HSPC M1;Deek et al.;124;Tissue
-TP53;39;31;Recurrent HSPC M1;Deek et al.;124;Tissue
-PTEN;30;24;Recurrent HSPC M1;Deek et al.;124;Tissue
-RB1;2;2;Recurrent HSPC M1;Deek et al.;124;Tissue
-ATM;6;5;Recurrent HSPC M1;Deek et al.;124;Tissue
-BRCA2;15;12;Recurrent HSPC M1;Deek et al.;124;Tissue
-CDK12;NA;NA;Recurrent HSPC M1;Deek et al.;124;Tissue
-APC;4;3;Recurrent HSPC M1;Deek et al.;124;Tissue
-CTNNB1;9;7;Recurrent HSPC M1;Deek et al.;124;Tissue
-RNF43;4;3;Recurrent HSPC M1;Deek et al.;124;Tissue
-SPOP;NA;NA;Recurrent HSPC M1;Deek et al.;124;Tissue
-FOXA1;NA;NA;Recurrent HSPC M1;Deek et al.;124;Tissue
-PIK3CA;NA;NA;Recurrent HSPC M1;Deek et al.;124;Tissue
-AR;3;2;De novo HSPC M1;Deek et al.;125;Tissue
-TP53;47;38;De novo HSPC M1;Deek et al.;125;Tissue
-PTEN;29;23;De novo HSPC M1;Deek et al.;125;Tissue
-RB1;5;4;De novo HSPC M1;Deek et al.;125;Tissue
-ATM;10;8;De novo HSPC M1;Deek et al.;125;Tissue
-BRCA2;8;6;De novo HSPC M1;Deek et al.;125;Tissue
-CDK12;NA;NA;De novo HSPC M1;Deek et al.;125;Tissue
-APC;15;12;De novo HSPC M1;Deek et al.;125;Tissue
-CTNNB1;7;6;De novo HSPC M1;Deek et al.;125;Tissue
-RNF43;3;2;De novo HSPC M1;Deek et al.;125;Tissue
-SPOP;NA;NA;De novo HSPC M1;Deek et al.;125;Tissue
-FOXA1;NA;NA;De novo HSPC M1;Deek et al.;125;Tissue
-PIK3CA;NA;NA;De novo HSPC M1;Deek et al.;125;Tissue
+AR;17;10;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+FOXA1;17;10;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+TP53;48;29;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+PTEN;49;29;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+ATM;10;6;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+BRCA2;10;6;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+CDK12;2;1;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+SPOP;28;17;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+APC;20;12;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+CTNNB1;12;7;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+RNF43;NA;;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+RB1;11;7;Recurrent mHSPC;MSK-IMPACT;167;Tissue
+AR;6;2;De novo mHSPC;MSK-IMPACT;276;Tissue
+FOXA1;38;14;De novo mHSPC;MSK-IMPACT;276;Tissue
+TP53;92;33;De novo mHSPC;MSK-IMPACT;276;Tissue
+PTEN;59;21;De novo mHSPC;MSK-IMPACT;276;Tissue
+ATM;11;4;De novo mHSPC;MSK-IMPACT;276;Tissue
+BRCA2;22;8;De novo mHSPC;MSK-IMPACT;276;Tissue
+CDK12;22;8;De novo mHSPC;MSK-IMPACT;276;Tissue
+SPOP;29;11;De novo mHSPC;MSK-IMPACT;276;Tissue
+APC;34;12;De novo mHSPC;MSK-IMPACT;276;Tissue
+CTNNB1;12;4;De novo mHSPC;MSK-IMPACT;276;Tissue
+RNF43;NA;NA;De novo mHSPC;MSK-IMPACT;276;Tissue
+RB1;11;4;De novo mHSPC;MSK-IMPACT;276;Tissue
+AR;0;0;De novo mHSPC;Gilson et al.;115;Tissue
+TP53;38;33;De novo mHSPC;Gilson et al.;115;Tissue
+PTEN;39;34;De novo mHSPC;Gilson et al.;115;Tissue
+RB1;1;1;De novo mHSPC;Gilson et al.;115;Tissue
+ATM;7;6;De novo mHSPC;Gilson et al.;115;Tissue
+BRCA2;2;2;De novo mHSPC;Gilson et al.;115;Tissue
+CDK12;7;6;De novo mHSPC;Gilson et al.;115;Tissue
+APC;8;7;De novo mHSPC;Gilson et al.;115;Tissue
+CTNNB1;8;7;De novo mHSPC;Gilson et al.;115;Tissue
+RNF43;NA;NA;De novo mHSPC;Gilson et al.;NA;Tissue
+SPOP;5;4;De novo mHSPC;Gilson et al.;115;Tissue
+FOXA1;NA;NA;De novo mHSPC;Gilson et al.;NA;Tissue
+PIK3CA;NA;NA;De novo mHSPC;Gilson et al.;NA;Tissue
+PIK3CA;NA;NA;Recurrent mHSPC;MSK-IMPACT;NA;Tissue
+PIK3CA;NA;NA;De novo mHSPC;MSK-IMPACT;NA;Tissue
+TP53;24;45;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+ATM;2;4;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+BRCA2;4;8;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+CDK12;3;6;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+AR;0;0;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+CTNNB1;1;2;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+APC;4;8;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+RNF43;1;2;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+SPOP;7;13;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+FOXA1;8;15;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+PTEN;10;19;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+PIK3CA;5;9;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+RB1;3;6;De novo mHSPC;Vandekerkhove et al.;53;Liquid
+SPOP;25;21;De novo mHSPC;Swami et al.;121;Tissue
+TP53;82;28;De novo mHSPC;Mateo et al.;292;Tissue
+ATM;8;3;De novo mHSPC;Mateo et al.;292;Tissue
+BRCA2;17;6;De novo mHSPC;Mateo et al.;292;Tissue
+CDK12;12;4;De novo mHSPC;Mateo et al.;292;Tissue
+AR;0;0;De novo mHSPC;Mateo et al.;292;Tissue
+CTNNB1;12;4;De novo mHSPC;Mateo et al.;292;Tissue
+APC;NA;NA;De novo mHSPC;Mateo et al.;NA;Tissue
+RNF43;NA;NA;De novo mHSPC;Mateo et al.;NA;Tissue
+SPOP;28;10;De novo mHSPC;Mateo et al.;292;Tissue
+FOXA1;NA;NA;De novo mHSPC;Mateo et al.;NA;Tissue
+PTEN;36;12;De novo mHSPC;Mateo et al.;292;Tissue
+PIK3CA;11;4;De novo mHSPC;Mateo et al.;292;Tissue
+RB1;18;6;De novo mHSPC;Mateo et al.;292;Tissue
+TP53;10;24;De novo mHSPC;Fan et al.;41;Liquid
+PTEN;3;7;De novo mHSPC;Fan et al.;41;Liquid
+RB1;3;7;De novo mHSPC;Fan et al.;41;Liquid
+AR;3;7;De novo mHSPC;Fan et al.;41;Liquid
+ATM;2;5;De novo mHSPC;Fan et al.;41;Liquid
+APC;NA;NA;De novo mHSPC;Fan et al.;NA;Liquid
+BRCA2;4;10;De novo mHSPC;Fan et al.;41;Liquid
+CDK12;5;12;De novo mHSPC;Fan et al.;41;Liquid
+CTNNB1;NA;NA;De novo mHSPC;Fan et al.;NA;Liquid
+RNF43;NA;NA;De novo mHSPC;Fan et al.;NA;Liquid
+SPOP;4;10;De novo mHSPC;Fan et al.;41;Liquid
+FOXA1;16;39;De novo mHSPC;Fan et al.;41;Liquid
+PIK3CA;NA;NA;De novo mHSPC;Fan et al.;NA;Liquid
+AR;2;2;Recurrent mHSPC;Deek et al.;124;Tissue
+TP53;39;31;Recurrent mHSPC;Deek et al.;124;Tissue
+PTEN;30;24;Recurrent mHSPC;Deek et al.;124;Tissue
+RB1;2;2;Recurrent mHSPC;Deek et al.;124;Tissue
+ATM;6;5;Recurrent mHSPC;Deek et al.;124;Tissue
+BRCA2;15;12;Recurrent mHSPC;Deek et al.;124;Tissue
+CDK12;NA;NA;Recurrent mHSPC;Deek et al.;124;Tissue
+APC;4;3;Recurrent mHSPC;Deek et al.;124;Tissue
+CTNNB1;9;7;Recurrent mHSPC;Deek et al.;124;Tissue
+RNF43;4;3;Recurrent mHSPC;Deek et al.;124;Tissue
+SPOP;NA;NA;Recurrent mHSPC;Deek et al.;124;Tissue
+FOXA1;NA;NA;Recurrent mHSPC;Deek et al.;124;Tissue
+PIK3CA;NA;NA;Recurrent mHSPC;Deek et al.;124;Tissue
+AR;3;2;De novo mHSPC;Deek et al.;125;Tissue
+TP53;47;38;De novo mHSPC;Deek et al.;125;Tissue
+PTEN;29;23;De novo mHSPC;Deek et al.;125;Tissue
+RB1;5;4;De novo mHSPC;Deek et al.;125;Tissue
+ATM;10;8;De novo mHSPC;Deek et al.;125;Tissue
+BRCA2;8;6;De novo mHSPC;Deek et al.;125;Tissue
+CDK12;NA;NA;De novo mHSPC;Deek et al.;125;Tissue
+APC;15;12;De novo mHSPC;Deek et al.;125;Tissue
+CTNNB1;7;6;De novo mHSPC;Deek et al.;125;Tissue
+RNF43;3;2;De novo mHSPC;Deek et al.;125;Tissue
+SPOP;NA;NA;De novo mHSPC;Deek et al.;125;Tissue
+FOXA1;NA;NA;De novo mHSPC;Deek et al.;125;Tissue
+PIK3CA;NA;NA;De novo mHSPC;Deek et al.;125;Tissue
